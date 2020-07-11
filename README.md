@@ -1,1 +1,3 @@
-# udacity-landing-page-project
+# Landing Page Project
+
+##  Web Development Professional Nanodegree Program
