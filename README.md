@@ -1,3 +1,3 @@
 # Landing Page Project
 
-##  Web Development Professional Nanodegree Program
+Web Development Professional Nanodegree Program
